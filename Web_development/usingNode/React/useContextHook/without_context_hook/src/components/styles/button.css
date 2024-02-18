@@ -1,12 +1,5 @@
-.mainShowCaseArea {
-    font-size: 20px;
-    color: #333;
-    text-align: center;
-    margin: 20px 0;
-  }
-  
-  .primaryButton {
-    background-color: #007BFF;
+.secondary_Button {
+    background-color: #6c757d;
     color: #fff;
     border: none;
     padding: 10px 20px;
