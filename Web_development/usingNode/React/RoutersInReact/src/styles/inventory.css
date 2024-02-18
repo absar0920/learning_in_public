@@ -1,0 +1,15 @@
+.inventory {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .car {
+    margin: 10px;
+  }
+  
+  .car img {
+    width: 200px;
+    height: auto;
+  }
+  
