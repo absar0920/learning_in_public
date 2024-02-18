@@ -6,7 +6,7 @@
 # To use this project: 
 - First Clone the repo
     ```
-        git clone https://github.com/absar0920/learning_in_public/tree/master/Web_development/usingNode/React/useContextHook/without_context_hook
+        git clone https://github.com/absar0920/learning_in_public/tree/master/Web_development/usingNode/React/RoutersInReact
     ```
     ```
     npm install
