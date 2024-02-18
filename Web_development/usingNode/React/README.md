@@ -5,3 +5,6 @@
 
 ## Routes in Ract:
     - last changes made: 18-Feb-2024
+
+## useMemo Hook in React:
+    - last changes made: 18-Feb-2024
