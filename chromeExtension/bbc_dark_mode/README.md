@@ -15,3 +15,10 @@ chrome://extension
 
 ## Errors and Solutions:
 - If you find and mismatch or errors, feel free to open an issue in the issue tab
+
+
+
+
+## CHANGES:
+- ### First created: 18-Feb-2024
+- ### last change: 18-Feb-2024
