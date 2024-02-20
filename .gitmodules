@@ -1,0 +1,3 @@
+[submodule "miscellaneous/text_editor_in_python"]
+    path = miscellaneous/text_editor_in_python
+    url = https://github.com/absar0920/text_editor
