@@ -16,11 +16,15 @@ I have been learning React, a JavaScript library for building user interfaces. H
 
 Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. In this section, you'll find my learning and projects related to Express.
 
-## Python Projects
+## Projects
 
 ### Text Editor
 
 This is a simple text editor built using Python. It allows you to create, read, update, and delete text files.
+
+### chat App
+
+This is a simple chat App using React as Front End and Express and socket.io as Backend and Mongodb as Database
 
 ## Contributing
 
@@ -38,4 +42,4 @@ MIT
 # Changes
 
 - first Created: 19-Feb-2024
-- last Changes: 19-Feb-2024
+- last Changes: 2-March-2024
